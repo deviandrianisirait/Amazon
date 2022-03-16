@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Scenario1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>552e14a5-99c9-48b9-9967-16942937ee8f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>82156ad5-1958-4ab4-8f09-8aab0a672851</id>
+      <masked>false</masked>
+      <name>from</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ef2f5e3e-0074-47bc-b32a-48b9856d72b2</id>
+      <masked>false</masked>
+      <name>to</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0465b1c9-ba61-4002-980a-f087744882d2</id>
+      <masked>false</masked>
+      <name>filter</name>
+   </variable>
+</TestCaseEntity>

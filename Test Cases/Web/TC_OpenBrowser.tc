@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OpenBrowser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a18b1ff-6245-4045-9ed9-f78eea9ff26e</testCaseGuid>
+   <variable>
+      <defaultValue>'www.ebay.com'</defaultValue>
+      <description></description>
+      <id>c3710205-772d-4c88-97ba-e35e15187d5c</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

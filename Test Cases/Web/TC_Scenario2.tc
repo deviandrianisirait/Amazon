@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Scenario2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b225caca-73f7-4a35-ba4f-902516c36cac</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>69d4c80b-4ce3-40f7-aa6d-0a87fd120d76</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>065dd656-d696-4239-bf50-748294c1445e</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b4cca734-9fad-49fa-9e7b-0df54962ed55</id>
+      <masked>false</masked>
+      <name>textSearch</name>
+   </variable>
+</TestCaseEntity>

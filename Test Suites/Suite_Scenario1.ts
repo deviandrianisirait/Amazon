@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Suite_Scenario1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>9ef564de-0977-401b-9161-8c54d0819214</testSuiteGuid>
+   <testCaseLink>
+      <guid>ec6a8873-50d4-4550-b7d1-4c360970e110</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Web/TC_OpenBrowser</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c3710205-772d-4c88-97ba-e35e15187d5c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>089cebac-41f8-4fc1-8212-0a47a84c20c8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Web/TC_Scenario1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4650ceed-33f7-4fc4-aebe-0b4a80d21f2d</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Web/dataset_Scenario1</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>4650ceed-33f7-4fc4-aebe-0b4a80d21f2d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>from</value>
+         <variableId>82156ad5-1958-4ab4-8f09-8aab0a672851</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4650ceed-33f7-4fc4-aebe-0b4a80d21f2d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>to</value>
+         <variableId>ef2f5e3e-0074-47bc-b32a-48b9856d72b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4650ceed-33f7-4fc4-aebe-0b4a80d21f2d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>filter</value>
+         <variableId>0465b1c9-ba61-4002-980a-f087744882d2</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

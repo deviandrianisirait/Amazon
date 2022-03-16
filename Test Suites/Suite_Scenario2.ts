@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Suite_Scenario2</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>0f5b6b1e-be6b-46ca-9ac4-85ab14455859</testSuiteGuid>
+   <testCaseLink>
+      <guid>ffba79cf-6763-4f22-9187-a52bff364c82</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Web/TC_OpenBrowser</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c3710205-772d-4c88-97ba-e35e15187d5c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d7b9d23f-e809-48c0-bce1-b2621c0fc004</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Web/TC_Scenario2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e0db453c-6a0c-4ae3-80a6-d3c74adf682a</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Web/dataset_Scenario2</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>e0db453c-6a0c-4ae3-80a6-d3c74adf682a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>text1</value>
+         <variableId>69d4c80b-4ce3-40f7-aa6d-0a87fd120d76</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e0db453c-6a0c-4ae3-80a6-d3c74adf682a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>category</value>
+         <variableId>065dd656-d696-4239-bf50-748294c1445e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e0db453c-6a0c-4ae3-80a6-d3c74adf682a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>text2 </value>
+         <variableId>b4cca734-9fad-49fa-9e7b-0df54962ed55</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Scenario4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c97e028-08f0-4268-b0a3-26cb1a9c887b</testCaseGuid>
+   <variable>
+      <defaultValue>'STATUS_CREATED'</defaultValue>
+      <description></description>
+      <id>c5aa252e-303e-4ec7-acaa-d42b98784c10</id>
+      <masked>false</masked>
+      <name>codeExpected</name>
+   </variable>
+</TestCaseEntity>
